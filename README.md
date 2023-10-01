@@ -1,7 +1,7 @@
 # desafio_profissional_dw_pos
 
 
-<h2>1. Caso - Novos Fatos de Data Marts para Agripoli Brasil</h2>
+<h2><b><i>1. Caso - Novos Fatos de Data Marts para Agripoli Brasil</i></b></h2>
    
 <h3> <p>A distribuidora de insumos químicos agrícolas, Agripoli Brasil, está há trinta e cinco anos no
 mercado brasileiro, em Cuiabá, estado do Mato Grosso, atuando com fornecedores, produtores
@@ -27,7 +27,7 @@ Analytical Processing (OLAP) e de Data Mining, diante das necessidades dos usuá
 estratégicos. </p></h3>
 </br>
 </br>
-<h2>3. Papel do aluno e sua participação na resolução do problema.</h2>
+<h2><b><i> 3. Papel do aluno e sua participação na resolução do problema.</i></b></h2>
 
 <h3> <p>Você, como profissional de TI, e gestor da informação da Agripoli Brasil, precisa atender uma
 solicitação do diretor de vendas da empresa, para projetar duas novas funcionalidades do Data Mart
@@ -68,5 +68,6 @@ os revendedores por localização e período”.
 Para resolver este desafio profissional, você deverá ler com atenção o conteúdo da disciplina,
 disponível no ambiente virtual e aprofundar os estudos mediante leituras complementares sobre
 projeto de banco de dados. </p></h3>
-<h4>Leitura sugerida, disponível na biblioteca virtual:
-HEUSER, Alberto, C. Projeto de Banco de Dados. 6. ed. São Paulo: Bookman, 2009</h4>
+
+<h4><i>Leitura sugerida, disponível na biblioteca virtual:
+HEUSER, Alberto, C. Projeto de Banco de Dados. 6. ed. São Paulo: Bookman, 2009</i></h4>
