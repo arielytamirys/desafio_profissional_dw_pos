@@ -3,7 +3,7 @@
 
 <h2>1. Caso - Novos Fatos de Data Marts para Agripoli Brasil</h2>
    
-<h3>A distribuidora de insumos químicos agrícolas, Agripoli Brasil, está há trinta e cinco anos no
+<h3> <p>A distribuidora de insumos químicos agrícolas, Agripoli Brasil, está há trinta e cinco anos no
 mercado brasileiro, em Cuiabá, estado do Mato Grosso, atuando com fornecedores, produtores
 rurais, revendas e cooperativas, na venda de defensivos e fertilizantes. Dos 409 distribuidores/
 comerciantes cadastrados pelo Órgão Estadual de Defesa Sanitária Vegetal (OEDSV) do Mato
@@ -24,12 +24,12 @@ implementação bottom-up dos Data Marts.
 Os Data Marts de marketing, financeiro, compra e venda constantemente estão sendo
 incrementados com novas funcionalidades (fatos) e manipulados com as ferramentas On-line
 Analytical Processing (OLAP) e de Data Mining, diante das necessidades dos usuários analistas e
-estratégicos. </h3>
+estratégicos. </p></h3>
 </br>
 </br>
 <h2>3. Papel do aluno e sua participação na resolução do problema.</h2>
 
-<h3>Você, como profissional de TI, e gestor da informação da Agripoli Brasil, precisa atender uma
+<h3> <p>Você, como profissional de TI, e gestor da informação da Agripoli Brasil, precisa atender uma
 solicitação do diretor de vendas da empresa, para projetar duas novas funcionalidades do Data Mart
 de vendas, sendo:
 1. Vendas realizadas pelos representantes para os produtores rurais por localização e período.
@@ -67,6 +67,6 @@ c. O Esquema Floco de Neve correspondente ao fato “vendas realizadas pelos ven
 os revendedores por localização e período”.
 Para resolver este desafio profissional, você deverá ler com atenção o conteúdo da disciplina,
 disponível no ambiente virtual e aprofundar os estudos mediante leituras complementares sobre
-projeto de banco de dados. </h3>
+projeto de banco de dados. </p></h3>
 <h4>Leitura sugerida, disponível na biblioteca virtual:
 HEUSER, Alberto, C. Projeto de Banco de Dados. 6. ed. São Paulo: Bookman, 2009</h4>
